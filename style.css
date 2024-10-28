@@ -1,0 +1,513 @@
+.desktop {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .overlap-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1920px;
+  height: 5284px;
+}
+
+.desktop .overlap {
+  position: relative;
+  width: 1924px;
+  height: 5284px;
+}
+
+.desktop .canvas {
+  position: absolute;
+  width: 1920px;
+  height: 4742px;
+  top: 0;
+  left: 0;
+  background-color: #204051;
+}
+
+.desktop .bagian-judul {
+  width: 1924px;
+  height: 1080px;
+  top: 142px;
+  position: absolute;
+  left: 0;
+}
+
+.desktop .overlap-group {
+  position: relative;
+  width: 1920px;
+  height: 1080px;
+  background-image: url(https://c.animaapp.com/fLSVKnMe/img/beyn-vlr.png);
+  background-size: 100% 100%;
+}
+
+.desktop .text-wrapper {
+  position: absolute;
+  width: 718px;
+  top: 265px;
+  left: 601px;
+  font-family: "Mulish", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .strategi-main {
+  position: absolute;
+  width: 992px;
+  height: 134px;
+  top: 85px;
+  left: 464px;
+}
+
+.desktop .nav-bar-button {
+  position: absolute;
+  width: 1920px;
+  height: 142px;
+  top: 0;
+  left: 0;
+  background-color: #e4e3e3;
+}
+
+.desktop .logo {
+  position: absolute;
+  width: 294px;
+  height: 120px;
+  top: 11px;
+  left: 28px;
+}
+
+.desktop .CLUTCH-ACADEMY {
+  position: absolute;
+  width: 149px;
+  top: 22px;
+  left: 143px;
+  font-family: "Lora", Helvetica;
+  font-weight: 600;
+  color: #030303;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .gambar-logo {
+  position: absolute;
+  width: 113px;
+  height: 120px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.desktop .button-discord {
+  position: absolute;
+  width: 340px;
+  height: 77px;
+  top: 33px;
+  left: 1542px;
+}
+
+.desktop .div {
+  position: relative;
+  width: 338px;
+  height: 77px;
+  background-color: #7289da;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000080;
+}
+
+.desktop .text-wrapper-2 {
+  position: absolute;
+  width: 246px;
+  top: 23px;
+  left: 74px;
+  font-family: "Kanit", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .discord {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 13px;
+  left: 14px;
+}
+
+.desktop .button-join {
+  all: unset;
+  box-sizing: border-box;
+  position: absolute;
+  width: 314px;
+  height: 88px;
+  top: 1407px;
+  left: 804px;
+}
+
+.desktop .div-wrapper {
+  position: relative;
+  width: 312px;
+  height: 88px;
+  background-color: #387478;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.desktop .text-wrapper-3 {
+  position: absolute;
+  width: 173px;
+  top: 24px;
+  left: 70px;
+  font-family: "Mulish", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .preview-video {
+  position: absolute;
+  width: 1366px;
+  height: 768px;
+  top: 554px;
+  left: 277px;
+  object-fit: cover;
+}
+
+.desktop .special-mentoring {
+  position: absolute;
+  width: 1920px;
+  height: 1080px;
+  top: 1580px;
+  left: 0;
+  background-image: url(https://c.animaapp.com/fLSVKnMe/img/laz-vlr.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .special-mentoring-2 {
+  position: absolute;
+  width: 1270px;
+  height: 50px;
+  top: 63px;
+  left: 325px;
+  background-image: url(https://c.animaapp.com/fLSVKnMe/img/mask-group.png);
+  background-size: 100% 100%;
+}
+
+.desktop .deskripsi {
+  position: absolute;
+  width: 624px;
+  height: 620px;
+  top: 230px;
+  left: 280px;
+}
+
+.desktop .overlap-group-2 {
+  position: relative;
+  width: 620px;
+  height: 620px;
+  background-image: url(https://c.animaapp.com/fLSVKnMe/img/rectangle.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .text-wrapper-4 {
+  position: absolute;
+  width: 619px;
+  top: -20px;
+  left: 0;
+  text-shadow: 0px 4px 4px #00000080;
+  font-family: "Mulish", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 110px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .rank {
+  position: absolute;
+  width: 613px;
+  height: 67px;
+  top: 120px;
+  left: 5px;
+}
+
+.desktop .text-wrapper-5 {
+  position: absolute;
+  width: 279px;
+  top: 0;
+  left: 0;
+  text-shadow: 0px 4px 4px #00000066;
+  font-family: "Mulish", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-6 {
+  position: absolute;
+  width: 279px;
+  top: 0;
+  left: 330px;
+  text-shadow: 0px 4px 4px #00000066;
+  font-family: "Mulish", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 38px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .valorant-platinum {
+  position: absolute;
+  width: 50px;
+  height: 55px;
+  top: 7px;
+  left: 280px;
+  object-fit: cover;
+}
+
+.desktop .sebagai-in-game {
+  position: absolute;
+  width: 590px;
+  top: 170px;
+  left: 15px;
+  font-family: "Mulish", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .ryo-VLR {
+  position: absolute;
+  width: 620px;
+  height: 620px;
+  top: 230px;
+  left: 1020px;
+  object-fit: cover;
+}
+
+.desktop .facebook {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 875px;
+  left: 1536px;
+}
+
+.desktop .instagram {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 875px;
+  left: 1496px;
+}
+
+.desktop .img {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 875px;
+  left: 1576px;
+}
+
+.desktop .role {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 875px;
+  left: 1058px;
+  background-image: url(https://c.animaapp.com/fLSVKnMe/img/controller@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .bagian-course {
+  width: 1922px;
+  height: 1844px;
+  top: 2908px;
+  position: absolute;
+  left: 0;
+}
+
+.desktop .overlap-2 {
+  position: relative;
+  width: 1920px;
+  height: 1844px;
+}
+
+.desktop .VLR {
+  position: absolute;
+  width: 1920px;
+  height: 1080px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.desktop .card-bantai-ranked {
+  position: absolute;
+  width: 414px;
+  height: 1579px;
+  top: 265px;
+  left: 564px;
+}
+
+.desktop .card-jadi-pro-player {
+  position: absolute;
+  width: 414px;
+  height: 543px;
+  top: 265px;
+  left: 971px;
+}
+
+.desktop .text-wrapper-7 {
+  position: absolute;
+  width: 762px;
+  top: 124px;
+  left: 579px;
+  font-family: "Mulish", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 70px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .pricing-effect {
+  position: absolute;
+  width: 218px;
+  height: 29px;
+  top: 104px;
+  left: 851px;
+}
+
+.desktop .overlap-group-wrapper {
+  position: absolute;
+  width: 340px;
+  height: 77px;
+  top: 878px;
+  left: 791px;
+}
+
+.desktop .bagian-sponsor {
+  width: 1922px;
+  height: 1080px;
+  top: 4204px;
+  position: absolute;
+  left: 0;
+}
+
+.desktop .overlap-3 {
+  position: relative;
+  width: 1920px;
+  height: 1080px;
+  background-image: url(https://c.animaapp.com/fLSVKnMe/img/eg-vs-100t-stage.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .p {
+  position: absolute;
+  top: 113px;
+  left: 830px;
+  font-family: "Mulish", Helvetica;
+  font-weight: 600;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .zowie {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 260px;
+  left: 441px;
+}
+
+.desktop .secret-lab {
+  position: absolute;
+  width: 400px;
+  height: 127px;
+  top: 276px;
+  left: 760px;
+  background-image: url(https://c.animaapp.com/fLSVKnMe/img/background@2x.png);
+  background-size: 100% 100%;
+}
+
+.desktop .logitech {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 260px;
+  left: 1305px;
+}
+
+.desktop .overlap-group-3 {
+  position: absolute;
+  width: 1230px;
+  height: 591px;
+  top: 485px;
+  left: 395px;
+}
+
+.desktop .red-bull {
+  position: absolute;
+  width: 300px;
+  height: 174px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .sony {
+  position: absolute;
+  width: 400px;
+  height: 70px;
+  top: 28px;
+  left: 365px;
+}
+
+.desktop .hyper-x {
+  position: absolute;
+  width: 400px;
+  height: 118px;
+  top: 28px;
+  left: 830px;
+}
+
+.desktop .v-lockup-horizontal {
+  position: absolute;
+  width: 1000px;
+  height: 563px;
+  top: 28px;
+  left: 65px;
+  object-fit: cover;
+}
